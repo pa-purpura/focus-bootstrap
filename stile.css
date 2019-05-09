@@ -1,0 +1,38 @@
+/* primo blocco top blu */
+
+.BG-top{
+  background: linear-gradient(30deg, #225393, #002351);
+}
+
+.hero{
+  margin-bottom: -24px;
+}
+
+/* secondo blocco plan white */
+
+.BG-plan{
+}
+
+/*  terzo blocco focus blu*/
+
+.BG-focus{
+  background: #2a4b77;
+}
+
+/*  quarto blocco track wuhite*/
+
+.BG-track{
+}
+
+/*  ultimo blocco foot blu*/
+
+.BG-foot{
+  background: #113462;
+  color:white;
+}
+
+/*  layout generale*/
+
+.rowmar-05{
+  margin: 5px auto;
+}
