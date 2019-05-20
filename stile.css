@@ -1,12 +1,31 @@
+
+/* .red{ */
+  /* background: red; */
+/* } */
+
 /* primo blocco top blu */
 
 .BG-top{
   background: linear-gradient(30deg, #225393, #002351);
 }
 
+.BG-top img{
+display: inline-block;
+}
+
+
 .hero{
+  margin-top: 35px;
+  margin-left: 45px;
   margin-bottom: -24px;
 }
+
+.logo{
+  margin-top: 100px;
+  margin-bottom: 35px;
+}
+
+
 
 /* secondo blocco plan white */
 
